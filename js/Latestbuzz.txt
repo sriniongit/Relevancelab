@@ -1,0 +1,25 @@
+{
+    "Buzz": [
+        {
+            "latestbuzz": "Relevance Lab is proud to be participating as a Bronze Sponsor at DevOps days Bangalore, one of the major DevOps conferences in India..",
+            "buzzdate": ""
+        },
+       {
+            "latestbuzz": "Relevance Lab announces new partnership with CloudBees – a leading Java PAAS company and driving DevOps efficiencies..",
+            "buzzdate": ""
+        },
+       {
+            "latestbuzz": "Relevance Lab is a Silver Sponsor at PuppetConf 2013. The DevOps platform of Relevance Lab continues to gain momentum..",
+            "buzzdate": ""
+        },
+        {
+            "latestbuzz": "Relevance Lab announces the availability of their DevOps platform for Microsoft SharePoint and .NET applications on Amazon EC2..",
+            "buzzdate": ""
+        },
+        {
+            "latestbuzz": "Relevance Lab is proud to be participating in the Opscode Conference ChefConf 2013 We are focused on helping organizations leverage..",
+            "buzzdate": ""
+        }
+       
+    ]
+}
